@@ -1,0 +1,2 @@
+
+from lirc import Lirc
